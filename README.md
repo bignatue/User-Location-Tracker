@@ -2,7 +2,7 @@
 
 Showing user current location in google map.
 
-![Design preview for User Location Tracker](./preview.jpg)
+![Design preview for User Location Tracker](./preview.png)
 
 ## Learnign Scope
 
